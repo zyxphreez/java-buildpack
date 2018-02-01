@@ -1,1 +1,0 @@
-TraceAllMethodsOfClass: mypackage.Hello BlamePointTracer "aruscustom|{classname}|{method}"
